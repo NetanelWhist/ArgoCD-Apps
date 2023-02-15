@@ -1,0 +1,1 @@
+{"appName":"crossplane","userGivenName":"crossplane","destNamespace":"crossplane","destServer":"https://kubernetes.default.svc","srcPath":"apps\\crossplane\\overlays\\testing","srcRepoURL":"https://github.com/NetanelK/ArgoCD-Apps.git","srcTargetRevision":"","labels":null}
