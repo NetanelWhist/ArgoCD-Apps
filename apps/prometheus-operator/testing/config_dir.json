@@ -1,1 +1,0 @@
-{"appName":"prometheus-operator","userGivenName":"prometheus-operator","destNamespace":"default","destServer":"https://kubernetes.default.svc","srcPath":".","srcRepoURL":"https://github.com/argoproj/argoproj-deployments.git","srcTargetRevision":"","labels":null,"exclude":"","include":""}
