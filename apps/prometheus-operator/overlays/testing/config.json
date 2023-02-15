@@ -1,7 +1,7 @@
 {
     "appName": "prometheus-operator",
     "userGivenName": "prometheus-operator",
-    "destNamespace": "default",
+    "destNamespace": "monitoring",
     "destServer": "https://kubernetes.default.svc",
     "srcPath": "apps/prometheus-operator/overlays/testing",
     "srcRepoURL": "https://github.com/NetanelK/ArgoCD-Apps.git",
