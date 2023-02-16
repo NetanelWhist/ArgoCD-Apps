@@ -1,7 +1,7 @@
 {
   "appName": "metrics-server",
   "userGivenName": "metrics-server",
-  "destNamespace": "default",
+  "destNamespace": "kube-system",
   "destServer": "https://kubernetes.default.svc",
   "srcPath": "apps/metrics-server/overlays/testing",
   "srcRepoURL": "https://github.com/NetanelWhist/ArgoCD-Apps.git",
