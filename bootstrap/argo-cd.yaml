@@ -19,7 +19,7 @@ spec:
   project: default
   source:
     path: bootstrap/argo-cd
-    repoURL: https://github.com/NetanelK/ArgoCD-Apps.git
+    repoURL: https://github.com/NetanelWhist/ArgoCD-Apps.git
   syncPolicy:
     automated:
       allowEmpty: true
@@ -34,5 +34,5 @@ status:
     comparedTo:
       destination: {}
       source:
-        repoURL: ""
-    status: ""
+        repoURL: ''
+    status: ''
